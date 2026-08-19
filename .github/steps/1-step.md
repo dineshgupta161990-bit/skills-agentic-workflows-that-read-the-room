@@ -28,7 +28,7 @@ Let's start in the pre-configured Codespace for this exercise. The dev container
 
 4. Try Mona's website locally. In the left sidebar, select **Run and Debug**, choose **Mona Astro: Dev Server**, and start the launch configuration.
 
-   <img width=30% alt="VS Code Run and Debug" src="../images/mona-astro-site-run-debug.png" />
+   <img width=30% alt="VS Code Run and Debug" src="https://github.com/dineshgupta161990-bit/skills-agentic-workflows-that-read-the-room/blob/main/.github/images/mona-astro-site-run-debug.png?raw=true" />
 
    When the site starts, open the forwarded port `4321` in your browser and confirm the GitHub Info website loads.
 
@@ -53,8 +53,8 @@ Let's start in the pre-configured Codespace for this exercise. The dev container
    1. [Create a fine-grained personal access token](https://github.com/settings/personal-access-tokens/new?name=COPILOT_GITHUB_TOKEN&description=GitHub+Agentic+Workflows+-+Copilot+engine+authentication&user_copilot_requests=read) with **Copilot Requests** set to **Read**.
       <details>
         <summary>Token permissions details</summary><br/>
-        <img width="30%" alt="Fine-grained token permissions 1" src="../images/fine-grained-token-1.png" />
-        <img width="30%" alt="Fine-grained token permissions 2" src="../images/fine-grained-token-2.png" />
+        <img width="30%" alt="Fine-grained token permissions 1" src="https://github.com/dineshgupta161990-bit/skills-agentic-workflows-that-read-the-room/blob/main/.github/images/fine-grained-token-1.png?raw=true" />
+        <img width="30%" alt="Fine-grained token permissions 2" src="https://github.com/dineshgupta161990-bit/skills-agentic-workflows-that-read-the-room/blob/main/.github/images/fine-grained-token-2.png?raw=true" />
       </details>
    2. Copy the token value.
    3. In your copied exercise repository, go to **Settings** > **Secrets and variables** > **Actions**.
@@ -63,9 +63,9 @@ Let's start in the pre-configured Codespace for this exercise. The dev container
       <details>
         <summary>Repository Action secrets details</summary><br/>
 
-        <img width="30%" alt="Repository actions secrets 1" src="../images/repo-secrets-1.png" />
-        <img width="30%" alt="Repository actions secrets 2" src="../images/repo-secrets-2.png" />
-        <img width="30%" alt="Repository actions secrets 3" src="../images/repo-secrets-3.png" />
+        <img width="30%" alt="Repository actions secrets 1" src="https://github.com/dineshgupta161990-bit/skills-agentic-workflows-that-read-the-room/blob/main/.github/images/repo-secrets-1.png?raw=true" />
+        <img width="30%" alt="Repository actions secrets 2" src="https://github.com/dineshgupta161990-bit/skills-agentic-workflows-that-read-the-room/blob/main/.github/images/repo-secrets-2.png?raw=true" />
+        <img width="30%" alt="Repository actions secrets 3" src="https://github.com/dineshgupta161990-bit/skills-agentic-workflows-that-read-the-room/blob/main/.github/images/repo-secrets-3.png?raw=true" />
       </details>
 
 > [!CAUTION]
@@ -81,7 +81,7 @@ Let's start in the pre-configured Codespace for this exercise. The dev container
    <details>
      <summary>Actions workflow permissions details</summary><br/>
 
-     <img width="40%" alt="Actions workflow permissions 1" src="../images/actions-permissions-1.png" />
+     <img width="40%" alt="Actions workflow permissions 1" src="https://github.com/dineshgupta161990-bit/skills-agentic-workflows-that-read-the-room/blob/main/.github/images/actions-permissions-1.png?raw=true" />
   </details>
 
 8. Initialize the repository with `gh aw` in the terminal.

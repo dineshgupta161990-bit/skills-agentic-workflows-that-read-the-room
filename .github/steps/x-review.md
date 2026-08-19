@@ -11,7 +11,7 @@ Pull the latest changes from `main` to get the final updates to the exercise rep
 
 View Mona's website locally. In the left sidebar(if it's not running yet), select **Run and Debug**, choose **Mona Astro: Dev Server**, and start the launch configuration.
 
-   <img width=30% alt="VS Code Run and Debug" src="../images/mona-astro-site-run-debug.png" />
+   <img width=30% alt="VS Code Run and Debug" src="https://github.com/dineshgupta161990-bit/skills-agentic-workflows-that-read-the-room/blob/main/.github/images/mona-astro-site-run-debug.png?raw=true" />
 
    When the site starts, open the forwarded port `4321` in your browser and confirm the GitHub Info website loads.
 

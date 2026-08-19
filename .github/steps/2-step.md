@@ -35,7 +35,7 @@ Continue working in VS Code. If you closed your browser editor, reopen your deve
 > The agentic-workflows agent is a general-purpose agent that can follow instructions in markdown files.
 > This will allow the agent to propose changes to the website content and create pull requests for review.
 
-   <img width="30%" alt="agentic workflows Agent" src="../images/agentic-workflows-agent.png" />
+   <img width="30%" alt="agentic workflows Agent" src="https://github.com/dineshgupta161990-bit/skills-agentic-workflows-that-read-the-room/blob/main/.github/images/agentic-workflows-agent.png?raw=true" />
 
 4. Before prompting the agent, add a rule to `.github/agents/agentic-workflows.md` so the agent knows not to compile workflows on its own. Open the file and add the following line under Important Notes:
 

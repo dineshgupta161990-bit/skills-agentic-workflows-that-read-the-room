@@ -21,7 +21,7 @@ The workflow uses `safe-outputs: create-pull-request`, so the agent can draft we
 
 2. Open the **Copilot Chat panel** using `Ctrl + Alt + I` (Windows) or `Ctrl + Cmd + I` (Mac). Select the **agentic-workflows** agent from the Copilot Chat agent selector to update Mona's updater `.github/workflows/update-github-info.md`.
 
-   <img width="30%" alt="agentic workflows Agent" src="../images/agentic-workflows-agent.png" />
+   <img width="30%" alt="agentic workflows Agent" src="https://github.com/dineshgupta161990-bit/skills-agentic-workflows-that-read-the-room/blob/main/.github/images/agentic-workflows-agent.png?raw=true" />
 
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
@@ -63,19 +63,19 @@ The workflow uses `safe-outputs: create-pull-request`, so the agent can draft we
 
 6. In the GitHub UI merge the pull request, then open the **Actions** tab, select the `update-github-info` workflow, and choose **Run workflow**.
 
-   <img width="30%" alt="Run the update-github-info workflow" src="../images/run-update-github-info-1.png" />
+   <img width="30%" alt="Run the update-github-info workflow" src="https://github.com/dineshgupta161990-bit/skills-agentic-workflows-that-read-the-room/blob/main/.github/images/run-update-github-info-1.png?raw=true" />
 
-   <img width="30%" alt="Run the update-github-info workflow" src="../images/run-update-github-info-2.png" />
+   <img width="30%" alt="Run the update-github-info workflow" src="https://github.com/dineshgupta161990-bit/skills-agentic-workflows-that-read-the-room/blob/main/.github/images/run-update-github-info-2.png?raw=true" />
 
-   <img width="50%" height="50%" alt="Run the update-github-info workflow" src="../images/run-update-github-info-3.png" />
+   <img width="50%" height="50%" alt="Run the update-github-info workflow" src="https://github.com/dineshgupta161990-bit/skills-agentic-workflows-that-read-the-room/blob/main/.github/images/run-update-github-info-3.png?raw=true" />
 
 7. Wait for the workflow to create a pull request for Mona's website update.
 
-   <img width="50%" alt="Pull request list showing a generated Mona website update pull request" src="../images/generated-update-pr.svg" />
+   <img width="50%" alt="Pull request list showing a generated Mona website update pull request" src="https://github.com/dineshgupta161990-bit/skills-agentic-workflows-that-read-the-room/blob/main/.github/images/generated-update-pr.svg?raw=true" />
 
 8. Open the generated pull request and review the **Files changed** tab. Confirm it updates `site/content/github-info.md` and mentions the source of the update.
 
-   <img width="50%" alt="Pull request files changed tab showing site/content/github-info.md" src="../images/pr-files-changed-github-info.svg" />
+   <img width="50%" alt="Pull request files changed tab showing site/content/github-info.md" src="https://github.com/dineshgupta161990-bit/skills-agentic-workflows-that-read-the-room/blob/main/.github/images/pr-files-changed-github-info.svg?raw=true" />
 
 9. Leave the generated pull request open. When the updater workflow finishes, Mona will look for an open pull request that updates `site/content/github-info.md`. Wait about 20 seconds, then refresh the exercise issue for the final review.
 
