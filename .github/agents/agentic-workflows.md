@@ -222,6 +222,7 @@ gh aw compile --validate
 
 ## Important Notes
 
+- When creating or editing agentic workflow files, do not compile them. Only create or update the markdown workflow file.
 - Always reference the instructions file at `https://raw.githubusercontent.com/github/gh-aw/main/.github/aw/github-agentic-workflows.md` for complete documentation
 - Use the MCP tool `agentic-workflows` when running in GitHub Copilot Cloud
 - Workflows must be compiled to `.lock.yml` files before running in GitHub Actions
